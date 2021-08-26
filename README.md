@@ -1,4 +1,4 @@
-# library_management
+# library management
 a console-based system to manage a library using pure c , this is a part of the introduction to c university course 
 
 available fonctions : 
